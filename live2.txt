@@ -987,7 +987,7 @@ jj斗地主,http://bp-caster.bestv.com.cn:80/359/1/video.m3u8
 越剧名家名段,http://bp-caster.bestv.com.cn:80/320/play.m3u8
 猫和老鼠,http://bp-caster.bestv.com.cn:80/319/1/video.m3u8
 
-央视频道,#genre#
+央视,#genre#
 CCTV-1,http://39.136.17.147/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225777/1/index.m3u8?fmt=ts2hls
 CCTV-1,http://39.136.17.147/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225726/1/index.m3u8?fmt=ts2hls
 CCTV-2,http://39.136.17.147/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225706/1/index.m3u8?fmt=ts2hls
@@ -1019,7 +1019,7 @@ CCTV-16,http://39.136.17.147/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226
 CCTV-16,http://39.136.17.147/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226302/1/index.m3u8?fmt=ts2hls
 CCTV-17,http://39.136.17.147/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226168/1/index.m3u8?fmt=ts2hls
 
-卫视频道,#genre#
+卫视,#genre#
 贵州卫视,http://39.136.17.147/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225703/1/index.m3u8?fmt=ts2hls
 贵州卫视,http://39.136.17.147/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226165/1/index.m3u8?fmt=ts2hls
 贵州卫视,http://39.136.17.147/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225776/1/index.m3u8?fmt=ts2hls
