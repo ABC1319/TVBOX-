@@ -17,6 +17,8 @@
 
 5.其他文件推荐使用GitHub文件加速
 [网站](https://gh-proxy.com/)
+eg:
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/用户名/仓库名/main/文件名.txt(json)
 
 
 ## 🐳在线接口
